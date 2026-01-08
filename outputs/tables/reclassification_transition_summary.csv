@@ -1,0 +1,4 @@
+ClinSigClass,years_since_review_median,submitters_median,confidence_median,conflicting_rate,instability_rate,n
+Conflicting_or_Other,,0.0,1.0,0.0,0.0,551
+Pathogenic_or_LikelyPathogenic,3.693360711841205,2.0,2.0,0.0965605452665884,0.36197501445517144,114146
+VUS_or_Benign,1.2210814510609171,3.0,2.0,0.22944582656513926,0.22584631657339602,185303
