@@ -1,0 +1,13 @@
+git check-ignore -v data/snapshots
+
+git check-ignore -v data/snapshots
+git check-ignore -v outputs/snapshots
+
+mkdir -p data/snapshots/T0 data/snapshots/T1
+
+data/snapshots/T0/
+data/snapshots/T1/
+
+
+data/snapshots/
+data/snapshots/
