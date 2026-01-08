@@ -1,0 +1,201 @@
+VariationID,Name,GeneSymbol,HGNC_ID,GeneID,ClinicalSignificance,ReviewStatus,years_since_review,NumberSubmitters_num,conflicting,ReclassificationRiskTier,model_risk_proba,model_risk_tier
+1512,NM_000298.6(PKLR):c.110G>A (p.Gly37Glu),PKLR,HGNC:9020,5313,Affects,no assertion criteria provided,61.01300479123888,1,False,Critical,0.9696620346784175,Critical
+1512,NM_000298.6(PKLR):c.110G>A (p.Gly37Glu),PKLR,HGNC:9020,5313,Affects,no assertion criteria provided,61.01300479123888,1,False,Critical,0.9696620346784175,Critical
+15304,"HBB, HBB/HBD FUSION",HBB,HGNC:4827,3043,Pathogenic; other,no assertion criteria provided,55.2662559890486,1,False,Critical,0.9646908883471865,Critical
+15148,NM_000518.5(HBB):c.49G>C (p.Gly17Arg),HBB,HGNC:4827,3043,other,no assertion criteria provided,52.54209445585216,1,False,Critical,0.9632458860035507,Critical
+15148,NM_000518.5(HBB):c.49G>C (p.Gly17Arg),HBB,HGNC:4827,3043,other,no assertion criteria provided,52.54209445585216,1,False,Critical,0.9632458860035507,Critical
+15253,NM_000518.5(HBB):c.54_59del (p.Lys18_Val19del),HBB,HGNC:4827,3043,other,no assertion criteria provided,51.58384668035592,1,False,Critical,0.9615894905229966,Critical
+15253,NM_000518.5(HBB):c.54_59del (p.Lys18_Val19del),HBB,HGNC:4827,3043,other,no assertion criteria provided,51.58384668035592,1,False,Critical,0.9615894905229966,Critical
+15356,NM_000518.4(HBB):c.320T>C (p.Leu107Pro),HBB,HGNC:4827,3043,other,no assertion criteria provided,50.01505817932922,1,False,Critical,0.9587220238155605,Critical
+15356,NM_000518.4(HBB):c.320T>C (p.Leu107Pro),HBB,HGNC:4827,3043,other,no assertion criteria provided,50.01505817932922,1,False,Critical,0.9587220238155605,Critical
+14889,NM_000522.5(HOXA13):c.1107G>A (p.Trp369Ter),HOXA13,HGNC:5102,3209,Pathogenic,no assertion criteria provided,55.51813826146475,1,False,Critical,0.9530036080249374,Critical
+14889,NM_000522.5(HOXA13):c.1107G>A (p.Trp369Ter),HOXA13,HGNC:5102,3209,Pathogenic,no assertion criteria provided,55.51813826146475,1,False,Critical,0.9530036080249374,Critical
+15145,NM_000518.5(HBB):c.436_437insCT (p.Tyr146fs),HBB,HGNC:4827,3043,other,no assertion criteria provided,45.50581793292265,1,False,Critical,0.9492972036492406,Critical
+15145,NM_000518.5(HBB):c.436_437insCT (p.Tyr146fs),HBB,HGNC:4827,3043,other,no assertion criteria provided,45.50581793292265,1,False,Critical,0.9492972036492406,Critical
+15814,NM_000558.5(HBA1):c.82G>A (p.Glu28Lys),HBA1,HGNC:4823,3039,other,no assertion criteria provided,45.01300479123888,1,False,Critical,0.9481513644140269,Critical
+15814,NM_000558.5(HBA1):c.82G>A (p.Glu28Lys),HBA1,HGNC:4823,3039,other,no assertion criteria provided,45.01300479123888,1,False,Critical,0.9481513644140269,Critical
+15314,NM_000518.5(HBB):c.236T>G (p.Leu79Arg),HBB,HGNC:4827,3043,other,no assertion criteria provided,43.01437371663244,1,False,Critical,0.9432489244743336,Critical
+15314,NM_000518.5(HBB):c.236T>G (p.Leu79Arg),HBB,HGNC:4827,3043,other,no assertion criteria provided,43.01437371663244,1,False,Critical,0.9432489244743336,Critical
+15384,NM_000518.5(HBB):c.226_228del (p.Leu76del),HBB,HGNC:4827,3043,other,no assertion criteria provided,42.92950034223135,1,False,Critical,0.9430313741548244,Critical
+15384,NM_000518.5(HBB):c.226_228del (p.Leu76del),HBB,HGNC:4827,3043,other,no assertion criteria provided,42.92950034223135,1,False,Critical,0.9430313741548244,Critical
+15737,"HBA1, 3AA INS, 118THR-GLU-PHE119",HBA1,HGNC:4823,3039,other,no assertion criteria provided,42.182067077344286,1,False,Critical,0.9410814263706214,Critical
+15763,NM_000558.5(HBA1):c.59C>A (p.Ala20Glu),HBA1,HGNC:4823,3039,other,no assertion criteria provided,42.01505817932922,1,False,Critical,0.9406372500759644,Critical
+15763,NM_000558.5(HBA1):c.59C>A (p.Ala20Glu),HBA1,HGNC:4823,3039,other,no assertion criteria provided,42.01505817932922,1,False,Critical,0.9406372500759644,Critical
+15790,NM_000558.5(HBA1):c.173G>A (p.Gly58Asp),HBA1,HGNC:4823,3039,other,no assertion criteria provided,41.82614647501711,1,False,Critical,0.9401310405743816,Critical
+15790,NM_000558.5(HBA1):c.173G>A (p.Gly58Asp),HBA1,HGNC:4823,3039,other,no assertion criteria provided,41.82614647501711,1,False,Critical,0.9401310405743816,Critical
+15011,NM_000559.2(HBG1):c.238G>A (p.Asp80Asn),HBG1,HGNC:4831,3047,other,no assertion criteria provided,41.01300479123888,1,False,Critical,0.937905677136435,Critical
+15011,NM_000559.2(HBG1):c.238G>A (p.Asp80Asn),HBG1,HGNC:4831,3047,other,no assertion criteria provided,41.01300479123888,1,False,Critical,0.937905677136435,Critical
+17606,NM_001128831.4(CA1):c.740G>A (p.Arg247His),CA1,HGNC:1368,759,Pathogenic,no assertion criteria provided,48.440793976728266,1,False,Critical,0.9353097478230568,Critical
+17606,NM_001128831.4(CA1):c.740G>A (p.Arg247His),CA1,HGNC:1368,759,Pathogenic,no assertion criteria provided,48.440793976728266,1,False,Critical,0.9353097478230568,Critical
+15767,NM_000558.5(HBA1):c.16G>C (p.Ala6Pro),HBA1,HGNC:4823,3039,other,no assertion criteria provided,39.43326488706366,1,False,Critical,0.9333600584406992,Critical
+15767,NM_000558.5(HBA1):c.16G>C (p.Ala6Pro),HBA1,HGNC:4823,3039,other,no assertion criteria provided,39.43326488706366,1,False,Critical,0.9333600584406992,Critical
+15721,NM_000558.3(HBA1):c.227A>C (p.Asp76Ala),HBA1,HGNC:4823,3039,other,no assertion criteria provided,38.01505817932922,1,False,Critical,0.9290178773958302,Critical
+15721,NM_000558.3(HBA1):c.227A>C (p.Asp76Ala),HBA1,HGNC:4823,3039,other,no assertion criteria provided,38.01505817932922,1,False,Critical,0.9290178773958302,Critical
+9942,NM_000291.4(PGK1):c.802G>A (p.Asp268Asn),PGK1,HGNC:8896,5230,Pathogenic,no assertion criteria provided,45.492128678986994,1,False,Critical,0.92624075621463,Critical
+9942,NM_000291.4(PGK1):c.802G>A (p.Asp268Asn),PGK1,HGNC:8896,5230,Pathogenic,no assertion criteria provided,45.492128678986994,1,False,Critical,0.92624075621463,Critical
+9943,NM_000291.4(PGK1):c.617G>C (p.Arg206Pro),PGK1,HGNC:8896,5230,Pathogenic,no assertion criteria provided,45.347022587269,1,False,Critical,0.9257655119850877,Critical
+9943,NM_000291.4(PGK1):c.617G>C (p.Arg206Pro),PGK1,HGNC:8896,5230,Pathogenic,no assertion criteria provided,45.347022587269,1,False,Critical,0.9257655119850877,Critical
+17978,NM_001127701.1(SERPINA1):c.1131A>T (p.Leu377Phe),SERPINA1,HGNC:8941,5265,other,no assertion criteria provided,36.766598220396986,1,False,Critical,0.924980629519586,Critical
+17978,NM_001127701.1(SERPINA1):c.1131A>T (p.Leu377Phe),SERPINA1,HGNC:8941,5265,other,no assertion criteria provided,36.766598220396986,1,False,Critical,0.924980629519586,Critical
+17605,NM_001128831.4(CA1):c.760G>C (p.Gly254Arg),CA1,HGNC:1368,759,Pathogenic,no assertion criteria provided,45.01300479123888,1,False,Critical,0.9246608331793666,Critical
+17605,NM_001128831.4(CA1):c.760G>C (p.Gly254Arg),CA1,HGNC:1368,759,Pathogenic,no assertion criteria provided,45.01300479123888,1,False,Critical,0.9246608331793666,Critical
+9944,NM_000291.4(PGK1):c.796_798delinsATG (p.Val266Met),PGK1,HGNC:8896,5230,Pathogenic,no assertion criteria provided,44.766598220396986,1,False,Critical,0.9238362491828656,Critical
+9944,NM_000291.4(PGK1):c.796_798delinsATG (p.Val266Met),PGK1,HGNC:8896,5230,Pathogenic,no assertion criteria provided,44.766598220396986,1,False,Critical,0.9238362491828656,Critical
+13222,BCHE Newfoundland,BCHE,HGNC:983,590,Pathogenic,no assertion criteria provided,44.68446269678302,1,False,Critical,0.9235595525712746,Critical
+17973,PI NULL(HONG KONG 2),SERPINA1,HGNC:8941,5265,other,no assertion criteria provided,36.18069815195072,1,False,Critical,0.9230140685302967,Critical
+9627,m.2939C>A,MT-RNR2,HGNC:7471,4550,Pathogenic,no assertion criteria provided,44.1533196440794,1,False,Critical,0.9217478864949805,Critical
+9627,m.2939C>A,MT-RNR2,HGNC:7471,4550,Pathogenic,no assertion criteria provided,44.1533196440794,1,False,Critical,0.9217478864949805,Critical
+9626,m.2991T>C,MT-RNR2,HGNC:7471,4550,Pathogenic,no assertion criteria provided,44.1533196440794,1,False,Critical,0.9217478864949805,Critical
+9626,m.2991T>C,MT-RNR2,HGNC:7471,4550,Pathogenic,no assertion criteria provided,44.1533196440794,1,False,Critical,0.9217478864949805,Critical
+914,NM_000067.3(CA2):c.52A>G (p.Lys18Glu),CA2,HGNC:1373,760,Pathogenic,no assertion criteria provided,43.2662559890486,1,False,Critical,0.9186344509352327,Critical
+914,NM_000067.3(CA2):c.52A>G (p.Lys18Glu),CA2,HGNC:1373,760,Pathogenic,no assertion criteria provided,43.2662559890486,1,False,Critical,0.9186344509352327,Critical
+915,NM_000067.3(CA2):c.707C>A (p.Pro236His),CA2,HGNC:1373,760,Pathogenic,no assertion criteria provided,43.01437371663244,1,False,Critical,0.9177300169985867,Critical
+915,NM_000067.3(CA2):c.707C>A (p.Pro236His),CA2,HGNC:1373,760,Pathogenic,no assertion criteria provided,43.01437371663244,1,False,Critical,0.9177300169985867,Critical
+13377,NM_000207.3(INS):c.147C>G (p.Phe49Leu),INS,HGNC:6081,3630,Pathogenic,no assertion criteria provided,42.75154004106776,1,False,Critical,0.9167765107500766,Critical
+13377,NM_000207.3(INS):c.147C>G (p.Phe49Leu),INS,HGNC:6081,3630,Pathogenic,no assertion criteria provided,42.75154004106776,1,False,Critical,0.9167765107500766,Critical
+18005,AT-III Roma,SERPINC1,HGNC:775,462,Pathogenic,no assertion criteria provided,42.182067077344286,1,False,Critical,0.9146760373630238,Critical
+13437,NM_000371.4(TTR):c.133G>A (p.Ala45Thr),TTR,HGNC:12405,7276,Pathogenic,no assertion criteria provided,42.01505817932922,1,False,Critical,0.914050976347748,Critical
+13437,NM_000371.4(TTR):c.133G>A (p.Ala45Thr),TTR,HGNC:12405,7276,Pathogenic,no assertion criteria provided,42.01505817932922,1,False,Critical,0.914050976347748,Critical
+12614,NM_001063.4(TF):c.830G>A (p.Gly277Asp),TF,HGNC:11740,7018,Pathogenic,no assertion criteria provided,41.68377823408624,1,False,Critical,0.9127988132396858,Critical
+12614,NM_001063.4(TF):c.830G>A (p.Gly277Asp),TF,HGNC:11740,7018,Pathogenic,no assertion criteria provided,41.68377823408624,1,False,Critical,0.9127988132396858,Critical
+10066,"HPRT, EX4-9DEL",HPRT1,HGNC:5157,3251,Pathogenic,no assertion criteria provided,41.42915811088296,1,False,Critical,0.9118252168770109,Critical
+17913,NM_000039.3(APOA1):c.478G>A (p.Glu160Lys),APOA1,HGNC:600,335,Pathogenic,no assertion criteria provided,41.36618754277892,1,False,Critical,0.9115829250608755,Critical
+17913,NM_000039.3(APOA1):c.478G>A (p.Glu160Lys),APOA1,HGNC:600,335,Pathogenic,no assertion criteria provided,41.36618754277892,1,False,Critical,0.9115829250608755,Critical
+17236,NM_000089.4(COL1A2):c.4001_4004del (p.Asn1334fs),COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,41.15537303216975,1,False,Critical,0.9107673933828261,Critical
+17236,NM_000089.4(COL1A2):c.4001_4004del (p.Asn1334fs),COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,41.15537303216975,1,False,Critical,0.9107673933828261,Critical
+14982,NC_000011.10:g.5254983G>C,HBG2,HGNC:4832,3048,Pathogenic,no assertion criteria provided,41.097878165639976,1,False,Critical,0.9105438009078184,Critical
+14982,NC_000011.10:g.5254983G>C,HBG2,HGNC:4832,3048,Pathogenic,no assertion criteria provided,41.097878165639976,1,False,Critical,0.9105438009078184,Critical
+9787,NM_000354.5(SERPINA7):c.1051C>T (p.His351Tyr),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,34.76796714579056,1,False,Critical,0.909478464083315,Critical
+9787,NM_000354.5(SERPINA7):c.1051C>T (p.His351Tyr),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,34.76796714579056,1,False,Critical,0.909478464083315,Critical
+10132,"F8, EX23-25DEL",F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,40.70088980150582,1,False,Critical,0.9089861175192596,Critical
+9788,NM_000354.5(SERPINA7):c.397G>C (p.Ala133Pro),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,34.600958247775495,1,False,Critical,0.9088191226770508,Critical
+9788,NM_000354.5(SERPINA7):c.397G>C (p.Ala133Pro),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,34.600958247775495,1,False,Critical,0.9088191226770508,Critical
+15208,NM_000518.5(HBB):c.279C>R (p.His93Gln),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,40.59958932238193,1,False,Critical,0.9085847490735258,Critical
+15208,NM_000518.5(HBB):c.279C>R (p.His93Gln),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,40.59958932238193,1,False,Critical,0.9085847490735258,Critical
+10117,"F8, EX11-18DEL",F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,40.54209445585216,1,False,Critical,0.9083562378054484,Critical
+15844,NC_000016.10:g.173151A>T,HBA1,HGNC:4823,3039,Pathogenic; other,no assertion criteria provided,34.01505817932922,1,False,Critical,0.9082047041353883,Critical
+15844,NC_000016.10:g.173151A>T,HBA1,HGNC:4823,3039,Pathogenic; other,no assertion criteria provided,34.01505817932922,1,False,Critical,0.9082047041353883,Critical
+10597,NM_000133.4(F9):c.723+1G>T,F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,40.39425051334703,1,False,Critical,0.9077662776329685,Critical
+10597,NM_000133.4(F9):c.723+1G>T,F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,40.39425051334703,1,False,Critical,0.9077662776329685,Critical
+17232,"COL1A2, EX6DEL",COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,40.309377138945926,1,False,Critical,0.9074260571400065,Critical
+29758,NC_000002.12:g.88857564A>G,IGKC,HGNC:5716,3514,Pathogenic,no assertion criteria provided,40.19986310746064,1,False,Critical,0.9069853979945055,Critical
+29759,NC_000002.12:g.88857564A>C,IGKC,HGNC:5716,3514,Pathogenic,no assertion criteria provided,40.19986310746064,1,False,Critical,0.9069853979945055,Critical
+29759,NC_000002.12:g.88857564A>C,IGKC,HGNC:5716,3514,Pathogenic,no assertion criteria provided,40.19986310746064,1,False,Critical,0.9069853979945055,Critical
+29758,NC_000002.12:g.88857564A>G,IGKC,HGNC:5716,3514,Pathogenic,no assertion criteria provided,40.19986310746064,1,False,Critical,0.9069853979945055,Critical
+18006,AT-III Trento,SERPINC1,HGNC:775,462,Pathogenic,no assertion criteria provided,40.01368925393566,1,False,Critical,0.9062319561139767,Critical
+9789,NM_000354.6(SERPINA7):c.555del (p.Val186fs),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,33.8507871321013,1,False,Critical,0.9058039339071007,Critical
+9789,NM_000354.6(SERPINA7):c.555del (p.Val186fs),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,33.8507871321013,1,False,Critical,0.9058039339071007,Critical
+9783,NM_000354.6(SERPINA7):c.740T>C (p.Leu247Pro),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,33.8507871321013,1,False,Critical,0.9058039339071007,Critical
+9783,NM_000354.6(SERPINA7):c.740T>C (p.Leu247Pro),SERPINA7,HGNC:11583,6906,association,no assertion criteria provided,33.8507871321013,1,False,Critical,0.9058039339071007,Critical
+230,NM_148923.4(CYB5A):c.130-2A>G,CYB5A,HGNC:2570,1528,Pathogenic,no assertion criteria provided,39.80013689253936,1,False,Critical,0.9053609801114617,Critical
+230,NM_148923.4(CYB5A):c.130-2A>G,CYB5A,HGNC:2570,1528,Pathogenic,no assertion criteria provided,39.80013689253936,1,False,Critical,0.9053609801114617,Critical
+17911,NM_000039.3(APOA1):c.391A>T (p.Lys131Ter),APOA1,HGNC:600,335,Pathogenic,no assertion criteria provided,39.76728268309377,1,False,Critical,0.9052263425336313,Critical
+17911,NM_000039.3(APOA1):c.391A>T (p.Lys131Ter),APOA1,HGNC:600,335,Pathogenic,no assertion criteria provided,39.76728268309377,1,False,Critical,0.9052263425336313,Critical
+15898,NM_005143.5(HP):c.214A>G (p.Lys72Glu),HP,HGNC:5141,3240,Benign,no assertion criteria provided,42.26694045174538,1,False,Critical,0.904751367678872,Critical
+15898,NM_005143.5(HP):c.214A>G (p.Lys72Glu),HP,HGNC:5141,3240,Benign,no assertion criteria provided,42.26694045174538,1,False,Critical,0.904751367678872,Critical
+17316,NM_000088.4(COL1A1):c.787G>A (p.Gly263Arg),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,39.507186858316224,1,False,Critical,0.9041543968137356,Critical
+17316,NM_000088.4(COL1A1):c.787G>A (p.Gly263Arg),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,39.507186858316224,1,False,Critical,0.9041543968137356,Critical
+10567,NM_000133.4(F9):c.169C>T (p.Gln57Ter),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,39.449691991786445,1,False,Critical,0.9039159821178298,Critical
+10567,NM_000133.4(F9):c.169C>T (p.Gln57Ter),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,39.449691991786445,1,False,Critical,0.9039159821178298,Critical
+10566,E7D,F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,39.449691991786445,1,False,Critical,0.9039159821178298,Critical
+10565,NM_000133.4(F9):c.138G>Y (p.Arg46Ser),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,39.43326488706366,1,False,Critical,0.9038477663473761,Critical
+10565,NM_000133.4(F9):c.138G>Y (p.Arg46Ser),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,39.43326488706366,1,False,Critical,0.9038477663473761,Critical
+17301,NM_000088.4(COL1A1):c.3496G>T (p.Gly1166Cys),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,39.43326488706366,1,False,Critical,0.9038477663473761,Critical
+17301,NM_000088.4(COL1A1):c.3496G>T (p.Gly1166Cys),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,39.43326488706366,1,False,Critical,0.9038477663473761,Critical
+18008,AT-III Fontainebleu,SERPINC1,HGNC:775,462,Pathogenic,no assertion criteria provided,39.38124572210815,1,False,Critical,0.9036314641496117,Critical
+10625,NG_007994.1:g.(11652_15340)_(15455_22627)del,F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,39.2662559890486,1,False,Critical,0.9031517793938413,Critical
+15031,NC_000011.10:g.5250055A>G,HBG1,HGNC:4831,3047,Pathogenic,no assertion criteria provided,39.09924709103354,1,False,Critical,0.9024512983304244,Critical
+15031,NC_000011.10:g.5250055A>G,HBG1,HGNC:4831,3047,Pathogenic,no assertion criteria provided,39.09924709103354,1,False,Critical,0.9024512983304244,Critical
+15250,Hb Little Rock,HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,39.01437371663244,1,False,Critical,0.9020935870991429,Critical
+15250,Hb Little Rock,HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,39.01437371663244,1,False,Critical,0.9020935870991429,Critical
+15290,NM_000518.5(HBB):c.404T>A (p.Val135Glu),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,39.01437371663244,1,False,Critical,0.9020935870991429,Critical
+15290,NM_000518.5(HBB):c.404T>A (p.Val135Glu),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,39.01437371663244,1,False,Critical,0.9020935870991429,Critical
+17724,NM_016815.4(GYPC):c.50-3609_50-3553del,GYPC,HGNC:4704,2995,Affects,no assertion criteria provided,34.92950034223135,1,False,Critical,0.901838087086804,Critical
+17724,NM_016815.4(GYPC):c.50-3609_50-3553del,GYPC,HGNC:4704,2995,Affects,no assertion criteria provided,34.92950034223135,1,False,Critical,0.901838087086804,Critical
+16772,NM_001067.4(TOP2A):c.1460G>A (p.Arg487Lys),TOP2A,HGNC:11989,7153,protective,no assertion criteria provided,34.34907597535934,1,False,Critical,0.9017455398764335,Critical
+16772,NM_001067.4(TOP2A):c.1460G>A (p.Arg487Lys),TOP2A,HGNC:11989,7153,protective,no assertion criteria provided,34.34907597535934,1,False,Critical,0.9017455398764335,Critical
+17852,NM_000041.4(APOE):c.237-2A>G,APOE,HGNC:613,348,Pathogenic,no assertion criteria provided,38.8911704312115,1,False,Critical,0.9015722481859104,Critical
+17852,NM_000041.4(APOE):c.237-2A>G,APOE,HGNC:613,348,Pathogenic,no assertion criteria provided,38.8911704312115,1,False,Critical,0.9015722481859104,Critical
+10635,"F9, EX5-8DEL",F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,38.85284052019165,1,False,Critical,0.9014095501794221,Critical
+3715,FH London 2,LDLR,HGNC:6547,3949,Pathogenic,no assertion criteria provided,38.76796714579056,1,False,Critical,0.9010484377198302,Critical
+17726,NM_002101.5(GYPC):c.23A>G (p.Asn8Ser),GYPC,HGNC:4704,2995,Affects,no assertion criteria provided,34.68583162217659,1,False,Critical,0.9008022044147687,Critical
+17726,NM_002101.5(GYPC):c.23A>G (p.Asn8Ser),GYPC,HGNC:4704,2995,Affects,no assertion criteria provided,34.68583162217659,1,False,Critical,0.9008022044147687,Critical
+657,NM_000312.4(PROC):c.1332G>C (p.Trp444Cys),PROC,HGNC:9451,5624,Pathogenic,no assertion criteria provided,38.68583162217659,1,False,Critical,0.9006978534744492,Critical
+657,NM_000312.4(PROC):c.1332G>C (p.Trp444Cys),PROC,HGNC:9451,5624,Pathogenic,no assertion criteria provided,38.68583162217659,1,False,Critical,0.9006978534744492,Critical
+17287,NM_000088.4(COL1A1):c.1705G>C (p.Gly569Arg),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,38.620123203285424,1,False,Critical,0.90041659078509,Critical
+17287,NM_000088.4(COL1A1):c.1705G>C (p.Gly569Arg),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,38.620123203285424,1,False,Critical,0.90041659078509,Critical
+10093,NG_011403.2:g.(127859_131491)_(131648_164496)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,38.600958247775495,1,False,Critical,0.9003344224666561,Critical
+10092,NG_011403.2:g.(131648_164496)_(167293_189971)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,38.600958247775495,1,False,Critical,0.9003344224666561,Critical
+10091,NG_011403.2:g.(164642_165857)_(167293_189971)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,38.600958247775495,1,False,Critical,0.9003344224666561,Critical
+10345,NG_011403.2:g.(123429_123635)_(125674_126281)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,38.51882272416153,1,False,Critical,0.899981589281176,Critical
+15644,NM_000517.6(HBA2):c.349G>T (p.Glu117Ter),HBA2,HGNC:4824,3040,Pathogenic,no assertion criteria provided,38.51882272416153,1,False,Critical,0.899981589281176,Critical
+15644,NM_000517.6(HBA2):c.349G>T (p.Glu117Ter),HBA2,HGNC:4824,3040,Pathogenic,no assertion criteria provided,38.51882272416153,1,False,Critical,0.899981589281176,Critical
+18186,NM_000477.5(ALB):c.71G>C (p.Arg24Pro),ALB,HGNC:399,213,Pathogenic,no assertion criteria provided,38.51882272416153,1,False,Critical,0.899981589281176,Critical
+18186,NM_000477.5(ALB):c.71G>C (p.Arg24Pro),ALB,HGNC:399,213,Pathogenic,no assertion criteria provided,38.51882272416153,1,False,Critical,0.899981589281176,Critical
+15207,NM_000518.5(HBB):c.337T>C (p.Cys113Arg),HBB,HGNC:4827,3043,Pathogenic; other,no assertion criteria provided,31.89048596851472,1,False,Critical,0.8993804101978577,Critical
+15207,NM_000518.5(HBB):c.337T>C (p.Cys113Arg),HBB,HGNC:4827,3043,Pathogenic; other,no assertion criteria provided,31.89048596851472,1,False,Critical,0.8993804101978577,Critical
+15060,NC_000011.10:g.5226638_5234052del,HBD,HGNC:4829,3045,Pathogenic,no assertion criteria provided,38.34907597535934,1,False,Critical,0.8992488809261119,Critical
+15060,NC_000011.10:g.5226638_5234052del,HBD,HGNC:4829,3045,Pathogenic,no assertion criteria provided,38.34907597535934,1,False,Critical,0.8992488809261119,Critical
+17918,NC_000011.10:g.116830247_116836307inv,APOA1,HGNC:600,335,Pathogenic,no assertion criteria provided,38.26694045174538,1,False,Critical,0.89889263630635,Critical
+17918,NC_000011.10:g.116830247_116836307inv,APOA1,HGNC:600,335,Pathogenic,no assertion criteria provided,38.26694045174538,1,False,Critical,0.89889263630635,Critical
+10638,NM_000133.4(F9):c.392del (p.Asp131fs),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,38.26694045174538,1,False,Critical,0.89889263630635,Critical
+10638,NM_000133.4(F9):c.392del (p.Asp131fs),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,38.26694045174538,1,False,Critical,0.89889263630635,Critical
+18177,NM_001243177.4(ALDOA):c.548A>G (p.Asp183Gly),ALDOA,HGNC:414,226,Pathogenic,no assertion criteria provided,38.09993155373032,1,False,Critical,0.8981648233076851,Critical
+18177,NM_001243177.4(ALDOA):c.548A>G (p.Asp183Gly),ALDOA,HGNC:414,226,Pathogenic,no assertion criteria provided,38.09993155373032,1,False,Critical,0.8981648233076851,Critical
+17902,NM_000040.3(APOC3):c.280A>G (p.Thr94Ala),APOC3,HGNC:610,345,Pathogenic,no assertion criteria provided,38.09993155373032,1,False,Critical,0.8981648233076851,Critical
+17902,NM_000040.3(APOC3):c.280A>G (p.Thr94Ala),APOC3,HGNC:610,345,Pathogenic,no assertion criteria provided,38.09993155373032,1,False,Critical,0.8981648233076851,Critical
+10128,NM_000132.4(F8):c.6404G>C (p.Arg2135Pro),F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,38.07529089664613,1,False,Critical,0.8980570486595031,Critical
+10128,NM_000132.4(F8):c.6404G>C (p.Arg2135Pro),F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,38.07529089664613,1,False,Critical,0.8980570486595031,Critical
+17727,NM_002101.5(GYPC):c.40C>T (p.Leu14Phe),GYPC,HGNC:4704,2995,Affects,no assertion criteria provided,34.01505817932922,1,False,Critical,0.8979002310584963,Critical
+17727,NM_002101.5(GYPC):c.40C>T (p.Leu14Phe),GYPC,HGNC:4704,2995,Affects,no assertion criteria provided,34.01505817932922,1,False,Critical,0.8979002310584963,Critical
+12161,"CYP21A2, GENE CONVERSION CYP21 FROM CYP21P",CYP21A2,HGNC:2600,1589,Pathogenic,no assertion criteria provided,38.01505817932922,1,False,Critical,0.8977931737609646,Critical
+10100,NG_011403.2:g.(5315_28123)_(30752_30752)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.93018480492813,1,False,Critical,0.8974203227799682,Critical
+18013,AT-III Barcelona,SERPINC1,HGNC:775,462,Pathogenic,no assertion criteria provided,37.86447638603696,1,False,Critical,0.8971308370813665,Critical
+10106,NM_000132.4:c.3065_3066insL13054_3065dup,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.82614647501711,1,False,Critical,0.8969616366034167,Critical
+10626,NM_000133.3:.c.(391+1_392-1)insN[?],F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,37.76591375770021,1,False,Critical,0.8966952524414248,Critical
+14562,NM_002300.8(LDHB):c.515G>A (p.Arg172His),LDHB,HGNC:6541,3945,Affects,no assertion criteria provided,33.68377823408624,1,False,Critical,0.896439431595267,Critical
+14563,NM_002300.8(LDHB):c.385A>C (p.Ser129Arg),LDHB,HGNC:6541,3945,Affects,no assertion criteria provided,33.68377823408624,1,False,Critical,0.896439431595267,Critical
+14563,NM_002300.8(LDHB):c.385A>C (p.Ser129Arg),LDHB,HGNC:6541,3945,Affects,no assertion criteria provided,33.68377823408624,1,False,Critical,0.896439431595267,Critical
+14562,NM_002300.8(LDHB):c.515G>A (p.Arg172His),LDHB,HGNC:6541,3945,Affects,no assertion criteria provided,33.68377823408624,1,False,Critical,0.896439431595267,Critical
+10099,NM_000132.4(F8):c.872A>G (p.Glu291Gly),F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.68377823408624,1,False,Critical,0.8963310194171944,Critical
+10130,NG_011403.2:g.(99154_121150)_(123819_125556)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.68377823408624,1,False,Critical,0.8963310194171944,Critical
+10099,NM_000132.4(F8):c.872A>G (p.Glu291Gly),F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.68377823408624,1,False,Critical,0.8963310194171944,Critical
+14682,NM_000208.4(INSR):c.2095C>T (p.Gln699Ter),INSR,HGNC:6091,3643,Pathogenic,no assertion criteria provided,37.67008898015058,1,False,Critical,0.8962702036115012,Critical
+14682,NM_000208.4(INSR):c.2095C>T (p.Gln699Ter),INSR,HGNC:6091,3643,Pathogenic,no assertion criteria provided,37.67008898015058,1,False,Critical,0.8962702036115012,Critical
+15166,NM_000518.5(HBB):c.71_73del (p.Val24del),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+14684,NM_000208.4(INSR):c.2286G>T (p.Arg762Ser),INSR,HGNC:6091,3643,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+14684,NM_000208.4(INSR):c.2286G>T (p.Arg762Ser),INSR,HGNC:6091,3643,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+10387,NM_001360016.2(G6PD):c.680G>T (p.Arg227Leu),G6PD,HGNC:4057,2539,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+10387,NM_001360016.2(G6PD):c.680G>T (p.Arg227Leu),G6PD,HGNC:4057,2539,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+12160,"CYP21A2, 30-KB DEL",CYP21A2,HGNC:2600,1589,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+15166,NM_000518.5(HBB):c.71_73del (p.Val24del),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.59890485968515,1,False,Critical,0.8959534526489936,Critical
+17244,"COL1A2, EX26DEL",COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.58795345653662,1,False,Critical,0.8959046459193907,Critical
+17243,NM_000089.4(COL1A2):c.1936G>T (p.Gly646Cys),COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.58795345653662,1,False,Critical,0.8959046459193907,Critical
+17243,NM_000089.4(COL1A2):c.1936G>T (p.Gly646Cys),COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.58795345653662,1,False,Critical,0.8959046459193907,Critical
+17238,NM_000089.4(COL1A2):c.2025+334_2565+183del,COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.5605749486653,1,False,Critical,0.8957825405617773,Critical
+17238,NM_000089.4(COL1A2):c.2025+334_2565+183del,COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.5605749486653,1,False,Critical,0.8957825405617773,Critical
+17248,NM_000089.4(COL1A2):c.1612-2A>G,COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.51676933607119,1,False,Critical,0.8955869087268855,Critical
+17248,NM_000089.4(COL1A2):c.1612-2A>G,COL1A2,HGNC:2198,1278,Pathogenic,no assertion criteria provided,37.51676933607119,1,False,Critical,0.8955869087268855,Critical
+15425,NM_000518.5(HBB):c.343_344delinsG (p.Leu115fs),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.43189596167009,1,False,Critical,0.895206948721159,Critical
+15425,NM_000518.5(HBB):c.343_344delinsG (p.Leu115fs),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.43189596167009,1,False,Critical,0.895206948721159,Critical
+17737,NM_020469.4(ABO):c.1059delC (p.Pro354Argfs),ABO,HGNC:79,28,Affects,no assertion criteria provided,33.34976043805612,1,False,Critical,0.8949478740679752,Critical
+17737,NM_020469.4(ABO):c.1059delC (p.Pro354Argfs),ABO,HGNC:79,28,Affects,no assertion criteria provided,33.34976043805612,1,False,Critical,0.8949478740679752,Critical
+10087,NC_000023.11:g.(?_154835791)_(154837753_154860431)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.347022587269,1,False,Critical,0.8948257684144029,Critical
+17882,NM_000384.3(APOB):c.5463del (p.His1822fs),APOB,HGNC:603,338,Pathogenic,no assertion criteria provided,37.31690622861054,1,False,Critical,0.8946902170404062,Critical
+17882,NM_000384.3(APOB):c.5463del (p.His1822fs),APOB,HGNC:603,338,Pathogenic,no assertion criteria provided,37.31690622861054,1,False,Critical,0.8946902170404062,Critical
+2576,NM_000483.5(APOC2):c.270del (p.Asp91fs),APOC2,HGNC:609,344,Pathogenic,no assertion criteria provided,37.26488706365503,1,False,Critical,0.8944557197799183,Critical
+2576,NM_000483.5(APOC2):c.270del (p.Asp91fs),APOC2,HGNC:609,344,Pathogenic,no assertion criteria provided,37.26488706365503,1,False,Critical,0.8944557197799183,Critical
+9802,NG_009014.2:g.(7732_?)del,AR,HGNC:644,367,Pathogenic,no assertion criteria provided,37.18001368925393,1,False,Critical,0.8940721302477972,Critical
+9803,"AR, PARTIAL DEL",AR,HGNC:644,367,Pathogenic,no assertion criteria provided,37.18001368925393,1,False,Critical,0.8940721302477972,Critical
+658,"PROC, ARG12TRP",PROC,HGNC:9451,5624,Pathogenic,no assertion criteria provided,37.15537303216975,1,False,Critical,0.8939605355778041,Critical
+10133,NG_011403.2:g.(80027_96047)_(99154_121150)del,F8,HGNC:3546,2157,Pathogenic,no assertion criteria provided,37.097878165639976,1,False,Critical,0.8936997449851305,Critical
+10623,NM_000133.4(F9):c.1307C>T (p.Ala436Val),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,37.097878165639976,1,False,Critical,0.8936997449851305,Critical
+10623,NM_000133.4(F9):c.1307C>T (p.Ala436Val),F9,HGNC:3551,2158,Pathogenic,no assertion criteria provided,37.097878165639976,1,False,Critical,0.8936997449851305,Critical
+17294,NM_000088.4(COL1A1):c.2776G>T (p.Gly926Cys),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,37.059548254620125,1,False,Critical,0.8935255707936799,Critical
+17294,NM_000088.4(COL1A1):c.2776G>T (p.Gly926Cys),COL1A1,HGNC:2197,1277,Pathogenic,no assertion criteria provided,37.059548254620125,1,False,Critical,0.8935255707936799,Critical
+7745,NM_000376.3(VDR):c.98G>A (p.Gly33Asp),VDR,HGNC:12679,7421,Pathogenic,no assertion criteria provided,37.03764544832307,1,False,Critical,0.8934259298583033,Critical
+7745,NM_000376.3(VDR):c.98G>A (p.Gly33Asp),VDR,HGNC:12679,7421,Pathogenic,no assertion criteria provided,37.03764544832307,1,False,Critical,0.8934259298583033,Critical
+15410,NM_000518.5(HBB):c.383_385del (p.Gln128_Ala129delinsPro),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.01300479123888,1,False,Critical,0.893313735652006,Critical
+15410,NM_000518.5(HBB):c.383_385del (p.Gln128_Ala129delinsPro),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.01300479123888,1,False,Critical,0.893313735652006,Critical
+15251,NM_000518.5(HBB):c.127T>C (p.Phe43Leu),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.01300479123888,1,False,Critical,0.893313735652006,Critical
+15251,NM_000518.5(HBB):c.127T>C (p.Phe43Leu),HBB,HGNC:4827,3043,Pathogenic,no assertion criteria provided,37.01300479123888,1,False,Critical,0.893313735652006,Critical

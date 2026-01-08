@@ -1,0 +1,9 @@
+is_pathogenic,model_risk_tier,n
+False,Low,96716
+False,Moderate,9732
+False,High,39599
+False,Critical,2426
+True,Low,98793
+True,Moderate,11591
+True,High,29381
+True,Critical,11762
