@@ -2,7 +2,7 @@
 
 ## Why I worked on this
 
-Genetic test results and clinical AI outputs are often treated as definitive once they are labeled or deployed. While working with public genomic databases, I noticed that many variant interpretations appear confident even though the underlying evidence is incomplete, outdated, or disputed.
+Genetic test results and clinical AI outputs are often treated as definitive once they are labeled or deployed. While working with public genomic databases, I noticed that many variant interpretations appear confident even though the underlying evidence is incomplete, outdated or disputed.
 
 Initially, I assumed this instability was rare. However, after manually examining multiple ClinVar records, it became clear that reclassification is not an exception but a recurring pattern.
 
