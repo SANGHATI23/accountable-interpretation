@@ -67,7 +67,9 @@ By surfacing instability and uncertainty, this work aims to support safer use of
 If you are reviewing this repository:
 1. Read the sections **Why I worked on this** and **What I did** above  
 2. Review the main analysis notebook(s) to understand how instability signals were derived  
-3. Refer to the documentation files for limitations and design decisions  
+3. Refer to the documentation files for limitations and design decisions
+4. - For the development trail (what changed and why), see **RESEARCH_LOG.md**.
+
 
 ---
 
