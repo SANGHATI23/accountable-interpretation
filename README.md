@@ -72,6 +72,11 @@ If you are reviewing this repository:
 
 
 ---
+## Sanity checks
+
+- Spot-checked a small set of ClinVar records manually to ensure metadata reflected what was shown on the record pages.
+- Re-ran analyses after changing key thresholds (e.g., evidence age cutoffs) to confirm trends were not artifacts of one setting.
+- Verified that disagreement/review-status signals behaved sensibly across high- vs low-review variants.
 
 ## Current limitations and future directions
 
