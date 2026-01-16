@@ -1,6 +1,16 @@
 # Accountable Interpretation of Genetic Variants: Studying Stability and Reclassification Risk
 
 **Timeline:** Exploratory analysis began in **late 2025**; refactored and documented in **early 2026** after iterative testing and scope refinement.
+## Framing the Problem: Hidden Uncertainty in Biomedical Data
+
+Across modern computational biology, a recurring challenge is that biological measurements and annotations are often **aggregated, incomplete, or static representations of dynamic systems**.
+
+In many domains, including genomics, signals that appear confident at first glance may obscure underlying uncertainty, disagreement, or missing context. Treating such outputs as definitive can lead to overconfidence in downstream analysis and decision-making.
+
+Clinical variant interpretation presents a clear example of this challenge. Public resources provide categorical labels for variants, but these labels frequently summarize heterogeneous evidence, mask disagreement, and persist unchanged even as supporting knowledge evolves.
+
+This project is motivated by the idea that **uncertainty itself is an important signal**. Rather than asking whether a variant is pathogenic, the focus here is on understanding **how stable and trustworthy an existing interpretation is**, and when it should be treated with caution.
+
 
 
 ## Why I worked on this
