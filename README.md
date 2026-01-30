@@ -47,6 +47,15 @@ Using publicly available ClinVar metadata, I examined signals such as:
 - age of supporting evidence  
 
 I combined these interpretable signals to characterize how stable or fragile a given variant interpretation may be. The goal was not to assign a new label, but to flag cases where confidence may be misleading.
+## Key Result: Interpretation Stability Risk Map
+
+The main artifact produced in this exploratory analysis is a stability risk map that stratifies ClinVar variant interpretations using simple, interpretable metadata signals.
+
+![ClinVar interpretation stability risk map](figures/clinvar_risk_map.png)
+
+**Figure 1. Interpretation stability risk map derived from ClinVar metadata.**  
+Each point represents a variant, positioned by **years since last expert evaluation** (x-axis) and **review strength / consensus confidence** (y-axis). Color denotes an **inferred reclassification risk tier** based on evidence age and submission agreement. Variants with older evidence and weaker consensus concentrate the highest implied instability, suggesting a practical signal for prioritizing re-review when expert capacity is limited.
+
 
 ## What changed during development (and why)
 
@@ -80,6 +89,8 @@ If you are reviewing this repository:
 2. Review the main analysis notebook(s) to understand how instability signals were derived  
 3. Refer to the documentation files for limitations and design decisions
 4. - For the development trail (what changed and why), see **RESEARCH_LOG.md**.
+   - The primary output of this work is the interpretation stability risk map shown in Figure 1.
+
 
 
 ---
