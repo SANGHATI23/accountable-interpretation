@@ -8470,3 +8470,16 @@ instability, motivating the need for dynamic risk-aware variant prioritization.<
 </main>
 </body>
 </html>
+from pathlib import Path
+import pandas as pd
+
+ROOT = Path.cwd().parent if Path.cwd().name == "notebooks" else Path.cwd()
+
+df = pd.read_csv(
+    ROOT / "outputs" / "tables" / "phase3_engineered.csv.gz",
+    compression="gzip",
+    low_memory=False,
+)
+
+print("Loaded:", df.shape)
+print(df.columns.tolist())
