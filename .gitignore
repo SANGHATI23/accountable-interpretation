@@ -11,3 +11,6 @@ data/snapshots/T1/
 
 data/snapshots/
 data/snapshots/
+
+# raw ClinVar downloads
+data/raw/clinvar/
