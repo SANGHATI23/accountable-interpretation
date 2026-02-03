@@ -3,9 +3,9 @@
 **Timeline:** Exploratory analysis began in **late 2025**; refactored and documented in **early 2026** after iterative testing and scope refinement.
 ## Framing the Problem: Hidden Uncertainty in Biomedical Data
 
-A recurring challenge in computational biology is that many biological measurements and annotations are treated as stable, even though they are derived from incomplete and evolving evidence.
+A recurring challenge in computational biology is that many biological annotations—particularly in clinical genomics—are treated as stable, even though they are derived from incomplete and evolving evidence.
 
-Across domains, signals that appear confident at first glance often hide underlying uncertainty, disagreement, or missing context. When these outputs are consumed downstream without that context, they can be overtrusted.
+Across biomedical domains, outputs that appear confident often hide disagreement, uncertainty, or missing context. When these outputs are consumed downstream without that context, they can be overtrusted.
 
 Clinical variant interpretation is a clear example. Public resources provide categorical labels for variants, but these labels frequently summarize heterogeneous evidence, mask disagreement between submissions, and persist unchanged even as supporting knowledge evolves.
 
@@ -16,7 +16,7 @@ This project starts from a simple premise: **uncertainty itself carries informat
 
 ## Why I worked on this
 
-Genetic test results and clinical AI outputs are often treated as definitive once they are labeled or deployed. While working with public genomic databases, I noticed that many variant interpretations appear confident even though the underlying evidence is incomplete, outdated or disputed.
+Genetic test results and clinical AI outputs in genomics are often treated as definitive once they are labeled or deployed. While working with public genomic databases, I noticed that many variant interpretations appear confident even though the underlying evidence is incomplete, outdated or disputed.
 
 Initially, I assumed this instability was rare. However, after manually examining multiple ClinVar records, it became clear that reclassification is not an exception but a recurring pattern.
 
@@ -76,7 +76,7 @@ It is also not intended to replace expert review or clinical judgment. Instead, 
 
 ## Why this matters
 
-Genetic interpretations are increasingly integrated into clinical decision-making and automated pipelines. When unstable interpretations are treated as definitive, there is a risk of over-trust and inappropriate downstream decisions.
+Genetic variant interpretations are increasingly integrated into clinical decision-making and automated pipelines. When unstable interpretations are treated as definitive, there is a risk of over-trust and inappropriate downstream decisions.
 
 By surfacing instability and uncertainty, this work aims to support safer use of genetic data and contribute to broader discussions around accountability and trust in biomedical decision-support systems.
 
